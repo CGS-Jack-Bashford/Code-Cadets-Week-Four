@@ -1,0 +1,7 @@
+a = 9
+b = 9
+c = 9
+num = 0
+while num < 10:
+    num = a+b+c
+    
